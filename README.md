@@ -1,7 +1,7 @@
 # Test-Color-Telecom
 Visual here :
 
- https://ibb.co/Wp3hP56alt 
+ https://ibb.co/Wp3hP56
  
  Responsive :
  
